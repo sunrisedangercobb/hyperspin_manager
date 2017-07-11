@@ -10,7 +10,6 @@ Features:
  - Roll back renames per database (only one saved per database).
  - Dry Runs of all features are default.
  - Basic but accurate pattern matching. Will not rename unless base file name is an exact match.
- - Update your database with your missing roms list. Active = No.
  
 Upcoming:
  - Add some actual error handling.
@@ -19,3 +18,4 @@ Upcoming:
  - Add generation of database.xml based on your files.
  - Add a scraper to automatically pull database files from hyperlist.
  - Add pathing handler so the program can be run from absolute path.
+ - Add updating your database with your missing roms list. Active = No.
