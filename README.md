@@ -2,6 +2,7 @@
 Simple program designed to help out with the organization of your hyperspin media.
 
 v0.01: (beta)
+
 Features:
  - Generate yaml formatted missing lists.
  - Generate yaml formatted media catalogs.
